@@ -1,3 +1,8 @@
+<div>
+<image src="https://github.com/shreyas-badiger/shreyas-badiger/assets/7680410/33c7f06b-7743-446c-83d2-9e9ec84e8567">
+</div>
+  
+
 ### <p align="center"> Hi there! I am Shreyas Badiger 👋</p>
 
 - 🔭 I’m currently working in Kubernetes Platform team @ Intuit (cluster orchestration, writing addons, node autoscaling, pod autoscaling etc.)
